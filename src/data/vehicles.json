@@ -1,0 +1,2865 @@
+[
+  {
+    "id": 1,
+    "name": "12 Ford Fiesta HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-12-ford-fiesta-hot-wheels-jkx58-gdg44_3.jpg?v=1770110908",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 2,
+    "name": "15 Mazda MX-5 Miata HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-15-mazda-mx-5-miata-hot-wheels-jkx56-gdg44_3.jpg?v=1770216372",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 3,
+    "name": "17 Ford F150 Raptor HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-tr_ng-17-ford-f150-raptor-FPY86-JBK70_2.jpg?v=1739952744",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 4,
+    "name": "2008 MERCEDES BENZ CLK63 HOT WHEELS JKF29/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-2008-mercedes-benz-clk63-hot-wheels-jkf29-fpy86_1.jpg?v=1773733917",
+    "series": "Mainline / Others",
+    "code": "JKF29/FPY86"
+  },
+  {
+    "id": 5,
+    "name": "2018 Bentley Continental Gt3 HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-2018-bentley-continental-gt3-hot-wheels-fpy86-hrv93_1.png?v=1728545764",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 6,
+    "name": "2020 Manga Tooner HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-2020-manga-tooner-hot-wheels-jcb61-gdg44_1.jpg?v=1739246816",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 7,
+    "name": "70 Chevrolet Camaro HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-70-chevrolet-camaro-hot-wheels-jkx83-hdh54_1.jpg?v=1757489003",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 8,
+    "name": "71 AMC Javelin HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-71-amc-javelin-hot-wheels-jbl06-hbl96_5.jpg?v=1757487861",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 9,
+    "name": "73 HONDA CIVIC CUSTOM Hot Wheels FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-sieu-xe-sang-trong-73-honda-civic-custom-hot-wheels-hrv85-fpy86_1.jpg?v=1725701845",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 10,
+    "name": "74 VOLVO 142 GL HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HKC53-FPY86.jpg?v=1715594144",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 11,
+    "name": "82 TOYOTA SUPRA Hot Wheels FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-sieu-xe-hot-wheels-sang-trong-82-toyota-supra-hrv97-fpy86_4.jpg?v=1725690750",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 12,
+    "name": "87 Audi Quattro HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-87-audi-quattro-hot-wheels-jkx61-gdg44_1.jpg?v=1770216753",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 13,
+    "name": "91 Nissan Sentra SE-R HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-91-nissan-sentra-se-r-hot-wheels-jkx60-gdg44_3.jpg?v=1770112788",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 14,
+    "name": "92 Honda Civic EG HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-92-honda-civic-eg-hot-wheels-jkx82-hdh54_1.jpg?v=1757488869",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 15,
+    "name": "99 Honda Civic Type R (EK9) HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-99-honda-civic-type-r-ek9-hot-wheels-jkx57-gdg44_3.jpg?v=1770111092",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 16,
+    "name": "99 Honda Civic Type R HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-99-honda-civic-type-r-hot-wheels-jbl00-hbl96_2.jpg?v=1747577620",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 17,
+    "name": "ALFA ROMEO GTV 6 3.0 Hot Wheels FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-alfa-romeo-gtv-6-3-0-hot-wheels-hrv80-fpy86_1.jpg?v=1722938662",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 18,
+    "name": "Aston Martin Vantage GTE HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-aston-martin-vantage-gte-hot-wheels-jbk76-fpy86_1.jpg?v=1757479595",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 19,
+    "name": "Aston Martin Vulcan HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-aston-martin-vulcan-hot-wheels-jkx68-gdg44_2.jpg?v=1773917104",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 20,
+    "name": "BMW E46 GTR HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-bmw-e46-gtr-hot-wheels-jbk99-hbl96_2.jpg?v=1747577303",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 21,
+    "name": "BMW M4 HOT WHEELS JKF30/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-bmw-m4-hot-wheels-jkf30-fpy86_1_19a26f6e-a639-4ad3-b7d1-d50e0b01f8c8.jpg?v=1773739911",
+    "series": "Mainline / Others",
+    "code": "JKF30/FPY86"
+  },
+  {
+    "id": 22,
+    "name": "BOULEVARD - BMW M3 GTR (E46) HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-bmw-m3-gtr-e46-hot-wheels-JHW30-GJT68_1.jpg?v=1770278376",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 23,
+    "name": "BOULEVARD - LAMBORGHINI GALLARDO LP 570-4 HOT WHEELS JHW33/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-lamborghini-gallardo-lp-570-4-jhw33gjt68_1.jpg?v=1773915142",
+    "series": "Boulevard",
+    "code": "JHW33/GJT68"
+  },
+  {
+    "id": 24,
+    "name": "BOULEVARD 60'S FIAT 500 D MODIFICADO Hot Wheels GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-60s-fiat-500-d-modificado-hot-wheels-GJT68-hrt65_1.jpg?v=1724064474",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 25,
+    "name": "BOULEVARD 62 FORD ANGLIA MODIFIED HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/GJT68-HKF32.jpg?v=1715655556",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 26,
+    "name": "BOULEVARD 99 HONDA CIVIC TYPE R HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HKF19-GJT68.jpg?v=1715594652",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 27,
+    "name": "BOULEVARD LB-ER34 NISSAN SKYLINE HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/products/hkf21-gjt68_1.jpg?v=1685157484",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 28,
+    "name": "BOULEVARD MAZDA 323 GTX TURBO Hot Wheels GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-mazda-323-gtx-turbo-hot-wheels-hrt59-gjt58_1.jpg?v=1722940603",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 29,
+    "name": "Boulevard - 73 Volvo 140 Gl HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-73-volvo-140-gl-hot-wheels-hrt79-gjt68_3.jpg?v=1733738493",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 30,
+    "name": "Boulevard - Alfa Romeo Gtv6 3.0 HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/Untitled-1-04_9dca735f-7a1e-4764-b3a6-1ba1ee376ca5.jpg?v=1739952872",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 31,
+    "name": "Boulevard - Bmw M3 HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-bmw-m3-hot-wheels-hrt80-gjt68_3.jpg?v=1733738600",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 32,
+    "name": "Boulevard - Ford GT LM HOT WHEELS JHW26/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-ford-gt-lm-hot-wheels-jhw26-gjt68_3.jpg?v=1766333375",
+    "series": "Boulevard",
+    "code": "JHW26/GJT68"
+  },
+  {
+    "id": 33,
+    "name": "Boulevard - Lamborghini Diablo SV HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-lamborghini-diablo-sv-hot-wheels-jbl13-gjt68_4.jpg?v=1757486822",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 34,
+    "name": "Boulevard - Lamborghini Temerario HOT WHEELS JBL09/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-lamborghini-temerario-hot-wheels-jbl09-gjt68_3.jpg?v=1766332728",
+    "series": "Boulevard",
+    "code": "JBL09/GJT68"
+  },
+  {
+    "id": 35,
+    "name": "Boulevard - Mercedes 500 SLC HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-mercedes-500-slc-hot-wheels-hrt63-gjt68_5.jpg?v=1757486390",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 36,
+    "name": "Boulevard - Mitsubishi Pajero Evolution HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-mitsubishi-pajero-evolution-hot-wheels-jbl26-gjt68_5.jpg?v=1757486967",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 37,
+    "name": "Boulevard - Nissan Laurel C33 HOT WHEELS JBL10/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-nissan-laurel-c33-hot-wheels-jbl10-gjt68_3.jpg?v=1766332914",
+    "series": "Boulevard",
+    "code": "JBL10/GJT68"
+  },
+  {
+    "id": 38,
+    "name": "Boulevard - Nissan Primera HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-nissan-primera-hot-wheels-jbl31-gjt68_4.jpg?v=1757480196",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 39,
+    "name": "Boulevard - Porsche 935 HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-porsche-935-hot-wheels-jbl17-gjt68_3.jpg?v=1739952832",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 40,
+    "name": "Bugatti Bolide HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-bugatti-bolide-hot-wheels-jbk79-fpy86_1.jpg?v=1757478571",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 41,
+    "name": "Bộ 5 Siêu Xe Đua F1 HOT WHEELS JLN11",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-5-sieu-xe-dua-hot-wheels-f1-hot-wheels-jln11_3.jpg?v=1770201073",
+    "series": "Mainline / Others",
+    "code": "JLN11"
+  },
+  {
+    "id": 42,
+    "name": "Bộ Đôi Monster Trucks - Siêu Xe Tải Mud Racing Hot Wheels FYJ64",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/productsbo-doi-hw-monster-trucks-sieu-xe-tai-mud-racing-hot-wheels-fyj64.jpg?v=1720771819",
+    "series": "Mainline / Others",
+    "code": "FYJ64"
+  },
+  {
+    "id": 43,
+    "name": "Celebrations '69 Ford Mustang Boss HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-69-ford-mustang-boss-hot-wheels-jby51-grt01_1.jpg?v=1739952710",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 44,
+    "name": "Celebrations 18 Ford Mustang Rtr Spec5 HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-18-ford-mustang-rtr-spec5-hot-wheels-jby53-gtr01_4.jpg?v=1739952875",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 45,
+    "name": "Celebrations 2001 BMW M5 E39 HOT WHEELS JBY58/GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-2001-bmw-m5-e39-hot-wheels-jby58-grt01_2.jpg?v=1747645678",
+    "series": "Mainline / Others",
+    "code": "JBY58/GRT01"
+  },
+  {
+    "id": 46,
+    "name": "Celebrations 2015 BMW M4 HOT WHEELS JBY57/GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-2015-bmw-m4-hot-wheels-jby57-grt01_2.jpg?v=1747645442",
+    "series": "Mainline / Others",
+    "code": "JBY57/GRT01"
+  },
+  {
+    "id": 47,
+    "name": "Celebrations 65 MUSTANG 2+2 FASTBACK HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-65-mustang-2-2-fastback-hot-wheels-GRT01-JBY49_4.jpg?v=1739952844",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 48,
+    "name": "Celebrations 65 Mustang 2+2 Fastback HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-65-mustang-2-2-fastback-hot-wheels-jby54-grt01_3.jpg?v=1740973297",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 49,
+    "name": "Celebrations 66 PONTIAC GTO (CHASE) HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-66-pontiac-gto-chase-hot-wheels-JKY14-GRT01_1.jpg?v=1770280913",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 50,
+    "name": "Celebrations 71 Mustang Mach I HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-71-mustang-mach-i-hot-wheels-jby52-grt01_4.jpg?v=1739952757",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 51,
+    "name": "Celebrations 84 Mustang Svo HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-84-mustang-svo-hot-wheels-jby50-grt01_5.jpg?v=1739952770",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 52,
+    "name": "Celebrations BMW 3.0 CS HOT WHEELS JBY56/GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-bmw-3-0-cs-hot-wheels-jby56-grt01.jpg?v=1747645092",
+    "series": "Mainline / Others",
+    "code": "JBY56/GRT01"
+  },
+  {
+    "id": 53,
+    "name": "Celebrations BMW M1 HOT WHEELS JBY59/GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-bmw-m1-hot-wheels-jby59-grt01_2.jpg?v=1747645876",
+    "series": "Mainline / Others",
+    "code": "JBY59/GRT01"
+  },
+  {
+    "id": 54,
+    "name": "Celebrations BMW M2 HOT WHEELS JBY55/GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-bmw-m2-hot-wheels-jby55-grt01_2.jpg?v=1747644915",
+    "series": "Mainline / Others",
+    "code": "JBY55/GRT01"
+  },
+  {
+    "id": 55,
+    "name": "Chevrolet Silverado (Tooned) HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-chevrolet-silverado-tooned-hot-wheels-jcb64-gdg44_2.jpg?v=1739247294",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 56,
+    "name": "Corvette C8.R HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-corvette-c8-r-hot-wheels-hrv95-fpy86_1.png?v=1728550102",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 57,
+    "name": "Corvette Stingray (Chase) HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-corvette-stingray-chase-hot-wheels-jkx86-hdh54_1.jpg?v=1757489481",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 58,
+    "name": "Custom 62 Chevy HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-custom-62-chevy-hot-wheels-jcb67-gdg44_1.jpg?v=1745808047",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 59,
+    "name": "Entertainment - Combat Medic HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-chu-de-entertainment-combat-medic-hot-wheels-jkx29-gdg83_3.jpg?v=1770800912",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 60,
+    "name": "Entertainment - Ground Fx HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-chu-de-entertainment-ground-fx-hot-wheels-jkx26-gdg83_3.jpg?v=1770801566",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 61,
+    "name": "Entertainment - Rogue Hog HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-chu-de-entertainment-rogue-hog-hot-wheels-jkx27-gdg83_3.jpg?v=1770800719",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 62,
+    "name": "Fast & Furious  2003 MITSUBISHI LANCER EVOLUTION IX HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNT03-HNR88_1.jpg?v=1706848243",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 63,
+    "name": "Fast & Furious 70 DODGE CHARGER (OFFROAD) HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNR97-HNR88.jpg?v=1715596950",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 64,
+    "name": "Fast & Furious 70 DODGE HEMI CHALLENGER HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNR92-HNR88.jpg?v=1715596584",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 65,
+    "name": "Fast & Furious 95 MITSUBISHI ECLIPSE HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNR91-HNR88.jpg?v=1715596560",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 66,
+    "name": "Fast & Furious DODGE CHARGER HELLCAST WIDEBODY HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNT00-HNR88.jpg?v=1715597798",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 67,
+    "name": "Fast & Furious ICE CHARGER HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNR98-HNR88.jpg?v=1715597011",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 68,
+    "name": "Fast & Furious MERCEDES-AMG GT HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNT18-HNR88.jpg?v=1715654220",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 69,
+    "name": "Fast & Furious NISSAN SKYLINE GT-R HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNT02-HNR88_1.jpg?v=1706848292",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 70,
+    "name": "Fast & Furious TOYOTA SUPRA HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HNR95-HNR88.jpg?v=1715596843",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 71,
+    "name": "Fast and Furious Custom Acura Integra HOT WHEELS JBY45/HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-and-furious-custom-acura-integra-hot-wheels-jby45-hnr88_1.jpg?v=1759834723",
+    "series": "Fast & Furious",
+    "code": "JBY45/HNR88"
+  },
+  {
+    "id": 72,
+    "name": "Fast and Furious Honda S2000 HOT WHEELS JBY44/HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-and-furious-honda-s2000-hot-wheels-jby44-hnr88_3.jpg?v=1759834051",
+    "series": "Fast & Furious",
+    "code": "JBY44/HNR88"
+  },
+  {
+    "id": 73,
+    "name": "Fast and Furious Lancer Evolution VII HOT WHEELS JBY47/HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-and-furious-lancer-evolution-vii-hot-wheels-jby47-hnr88_1.jpg?v=1759834478",
+    "series": "Fast & Furious",
+    "code": "JBY47/HNR88"
+  },
+  {
+    "id": 74,
+    "name": "Fast and Furious Nissan Silvia S15 HOT WHEELS JBY48/HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-and-furious-nissan-silvia-s15-hot-wheels-jby48-hnr88_1.jpg?v=1759833890",
+    "series": "Fast & Furious",
+    "code": "JBY48/HNR88"
+  },
+  {
+    "id": 75,
+    "name": "Fast and Furious VW Jetta MK3 HOT WHEELS JBY46/HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-and-furious-vw-jetta-mk3-hot-wheels-jby46-hnr88_3.jpg?v=1759834225",
+    "series": "Fast & Furious",
+    "code": "JBY46/HNR88"
+  },
+  {
+    "id": 76,
+    "name": "Fast&Furious 67 Custom Mustang HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-67-custom-mustang-hot-wheels-jnk49-hnr88_3.jpg?v=1770491444",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 77,
+    "name": "Fast&Furious 69 Camaro HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-69-camaro-hot-wheels-jkx13-hnr88_3.jpg?v=1770489939",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 78,
+    "name": "Fast&Furious 70 Road Runner HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-70-road-runner-hot-wheels-jkx08-hnr88_3.jpg?v=1770490498",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 79,
+    "name": "Fast&Furious 99 Nissan Maxima HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-99-nissan-maxima-hot-wheels-jkx14-hnr88_3.jpg?v=1770489535",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 80,
+    "name": "Fast&Furious Honda S2000 (Zn Version) HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-honda-s2000-zn-version-hot-wheels-jby34-hnr88_2.jpg?v=1743761278",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 81,
+    "name": "Fast&Furious Nissan 350Z Custom HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-nissan-350z-custom-hot-wheels-jkx05-hnr88_3.jpg?v=1770491123",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 82,
+    "name": "Fast&Furious Nissan Silvia S13 HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-nissan-silvia-s13-hot-wheels-jkx09-hnr88_3.jpg?v=1770491061",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 83,
+    "name": "Fast&Furious Porsche 911 Gt3 Cup HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-porsche-911-gt3-cup-hot-wheels-hrw55-hnr88_3.jpg?v=1728465071",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 84,
+    "name": "Fast&Furious Subaru Impreza WRX HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-subaru-impreza-wrx-hot-wheels-jkx10-hnr88_3.jpg?v=1770489684",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 85,
+    "name": "Ff  Tooned 70'S Dodge Charger Rt HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-ff-tooned-70s-dodge-charger-rt-hot-wheels-jcb63-gdg44_2.jpg?v=1739247108",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 86,
+    "name": "Honda Civic FD2 Type-R HOT WHEELS JBK53/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-honda-civic-fd2-type-r-hot-wheels-jbk53-fpy86_3.jpg?v=1759833234",
+    "series": "Mainline / Others",
+    "code": "JBK53/FPY86"
+  },
+  {
+    "id": 87,
+    "name": "Hot Ones - 1967 Ford GT40 MK.IV HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-1967-ford-gt40-mk-iv-hot-wheels-jkx45-jby68_3.jpg?v=1770560793",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 88,
+    "name": "Hot Ones - BMW M1 Procar HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-bmw-m1-procar-hot-wheels-jby76-jby68_2.jpg?v=1755589243",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 89,
+    "name": "Hot Ones - Honda Civic SI HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-honda-civic-si-hot-wheels-jby73-jby68_2.jpg?v=1755586715",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 90,
+    "name": "Hot Ones - Nissan Skyline RS (KDR30) HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-nissan-skyline-rs-kdr30-hot-wheels-jkx42-jby68_3.jpg?v=1770560615",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 91,
+    "name": "Hot Ones - Porsche 917L HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-porsche-917l-hot-wheels-jkx43-jby68_3.jpg?v=1770561774",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 92,
+    "name": "Hot Ones - Porsche 917LH JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-porsche-917lh-hot-wheels-jby75-jby68_2.jpg?v=1755586062",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 93,
+    "name": "Hot Ones - Volkswagen T1 Panel Bus HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-volkswagen-t1-panel-bus-hot-wheels-jkx46-jby68_3.jpg?v=1770561730",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 94,
+    "name": "Hot Ones - Volkswagen T2 Pickup HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-volkswagen-t2-pickup-hot-wheels-jby70-jby68_2.jpg?v=1755587512",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 95,
+    "name": "Jaguar C-X75 HOT WHEELS JBL04/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-jaguar-c-x75-hot-wheels-jbl04-hbl96_5.jpg?v=1766334604",
+    "series": "Mainline / Others",
+    "code": "JBL04/HBL96"
+  },
+  {
+    "id": 96,
+    "name": "Jaguar MK1 HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-jaguar-mk1-hot-wheels-jkx69-gdg44_2.jpg?v=1773916836",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 97,
+    "name": "Koenigsegg Agera R HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-koenigsegg-agera-r-hot-wheels-jbk93-fpy86_3.jpg?v=1762251169",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 98,
+    "name": "LB Nissan Skyline 2000GT-R HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-lb-nissan-skyline-2000gt-r-hot-wheels-jkf11-fpy86_3.jpg?v=1770099443",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 99,
+    "name": "Lancia Rally 037 HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-lancia-rally-037-hot-wheels-jnf48-gdg44_1.jpg?v=1770217258",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 100,
+    "name": "Land Rover Defender 90 HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-land-rover-defender-90-hot-wheels-jbk74-fpy86_5.jpg?v=1739952858",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 101,
+    "name": "Lexus LFA HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-lexus-lfa-hot-wheels-jbk57-fpy86_3.jpg?v=1762251484",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 102,
+    "name": "MAZDA RX7 FC HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/products/hcj86.fpy86_copy.jpg?v=1685144259",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 103,
+    "name": "Mazda RX3 Wagon (Mad Mike) HOT WHEELS JBK50/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-mazda-rx3-wagon-mad-mike-hot-wheels-jbk50-fpy86_3.jpg?v=1759833691",
+    "series": "Mainline / Others",
+    "code": "JBK50/FPY86"
+  },
+  {
+    "id": 104,
+    "name": "McLaren Solus GT HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-mclaren-solus-gt-hot-wheels-jbk78-fpy86_2.jpg?v=1757479156",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 105,
+    "name": "Mclaren Speedtail HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-mclaren-speedtail-hot-wheels-jkx67-gdg44_2.jpg?v=1773916988",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 106,
+    "name": "Mitsubishi Lancer Evolution IX HOT WHEELS JBK86/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-mitsubishi-lancer-evolution-ix-hot-wheels-jbk86-fpy86_3.jpg?v=1759829337",
+    "series": "Mainline / Others",
+    "code": "JBK86/FPY86"
+  },
+  {
+    "id": 107,
+    "name": "Mitsubishi Lancer Evolution VI HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-mitsubishi-lancer-evolution-vi-hot-wheels-jkf19-fpy86_3.jpg?v=1770101144",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 108,
+    "name": "Morris Mini HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-morris-mini-hot-wheels-jbk97-hbl96_4.jpg?v=1757487498",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 109,
+    "name": "Neon Speeders - 70 TOYOTA CELICA HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HLH72-HRW67.jpg?v=1715658172",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 110,
+    "name": "Neon Speeders 16 MERCEDES AMG GT3 Hot Wheels HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-neon-speeders-16-mercedes-amg-gt3-Hot-Wheels-HRW79-HLH72_6.jpg?v=1718771745",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 111,
+    "name": "Neon Speeders 98 HONDA PRELUDE HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-98-honda-prelude-HLH72-JCB00_1.jpg?v=1747646457",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 112,
+    "name": "Neon Speeders DATSUN FAIRLADY 2000 JCB04/HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-datsun-fairlady-2000-HLH72-JCB04.jpg?v=1747645835",
+    "series": "Neon Speeders",
+    "code": "JCB04/HLH72"
+  },
+  {
+    "id": 113,
+    "name": "Neon Speeders MAZDA RX-7 Hot Wheels HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-mazda-rx-7-HLH72-JCB01.jpg?v=1747645108",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 114,
+    "name": "Nissan 300ZX Imsa Gts HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-nissan-300zx-imsa-gts-hot-wheels-jbk61-fpy86_5.jpg?v=1739952748",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 115,
+    "name": "Nissan GT-R HOT WHEELS JBL05/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-nissan-gt-r-hot-wheels-jbl05-hbl96_5.jpg?v=1766334688",
+    "series": "Mainline / Others",
+    "code": "JBL05/HBL96"
+  },
+  {
+    "id": 116,
+    "name": "Nissan Sileighty HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-nissan-sileighty-hot-wheels-hrv75-fpy86_1.jpg?v=1733741506",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 117,
+    "name": "Nissan Sileighty HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-nissan-sileighty-hot-wheels-jbk96-hbl96_5.jpg?v=1757487678",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 118,
+    "name": "Nissan Silvia (S14) Nismo HOT WHEELS JKD99/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hang-sang-nissan-silvia-s14-nismo-hot-wheels-jkd99-fpy86_3.jpg?v=1776245372",
+    "series": "Mainline / Others",
+    "code": "JKD99/FPY86"
+  },
+  {
+    "id": 119,
+    "name": "Nissan Skyline R32 Pandem HOT WHEELS JBK88/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-nissan-skyline-r32-pandem-hot-wheels-jbk88-fpy86_3.jpg?v=1759833461",
+    "series": "Mainline / Others",
+    "code": "JBK88/FPY86"
+  },
+  {
+    "id": 120,
+    "name": "Nissan Z GT 4 HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-nissan-z-gt-4-hot-wheels-fpy86-hrv73_1.png?v=1728545122",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 121,
+    "name": "Pantone - 20 Toyota Tacoma HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pantone-20-toyota-tacoma-hot-wheels-jky57-jky47_4.jpg?v=1778496787",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 122,
+    "name": "Pantone - 67 Ford Bronco HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pantone-67-ford-bronco-hot-wheels-jky65-jky47_4.jpg?v=1778494911",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 123,
+    "name": "Pantone - Kool Kombi HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-pantone-kool-kombi-hot-wheels-jky49-jky47_3.jpg?v=1770563111",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 124,
+    "name": "Pantone - Land Rover Defender 90 HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pantone-land-rover-defender-90-hot-wheels-jky62-jky47_4_a6fb9a26-ea20-4e4e-80b4-4532b37ad8d5.jpg?v=1778497495",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 125,
+    "name": "Pantone - Nissan Fairlady HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-pantone-nissan-fairlady-hot-wheels-jky52-jky47_3.jpg?v=1770562680",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 126,
+    "name": "Pantone - Rally Finale HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pantone-rally-finale-hot-wheels-jky54-jky47_4.jpg?v=1778494592",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 127,
+    "name": "Pantone - Twin Mill III HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-pantone-twin-mill-iii-hot-wheels-jky51-jky47_4.jpg?v=1770563085",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 128,
+    "name": "Pininfarina Battista HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-pininfarina-battista-hot-wheels-jbk77-fpy86_1.jpg?v=1757479308",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 129,
+    "name": "Pop Culture - 1966 TV Series Batmobile HOT WHEELS JBL83/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-1966-tv-series-batmobile-hot-wheels-jbl83-hxd63_1.jpg?v=1759899647",
+    "series": "Pop Culture",
+    "code": "JBL83/HXD63"
+  },
+  {
+    "id": 130,
+    "name": "Pop Culture - 2016 Ford GT Race HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-2016-ford-gt-race-hot-wheels-jbl67-hxd63_2.jpg?v=1755598484",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 131,
+    "name": "Pop Culture - 64 Lincoln Continental HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-pop-culture-64-lincoln-continental-hot-wheels-jhw89-hxd63_2.jpg?v=1773806230",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 132,
+    "name": "Pop Culture - 66 Dodge A100 HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-66-dodge-a100-hot-wheels-jbl69-hxd63.jpg?v=1747639829",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 133,
+    "name": "Pop Culture - Action Comics #1 Sedan (Graphics) HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-action-comics-1-sedan-graphics-hot-wheels-hvj50-hxd63_2.jpg?v=1755598181",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 134,
+    "name": "Pop Culture - Aston Martin Vanquish HOT WHEELS JBL55/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-aston-martin-vanquish-hot-wheels-jbl55-hxd63_2.jpg?v=1747637591",
+    "series": "Pop Culture",
+    "code": "JBL55/HXD63"
+  },
+  {
+    "id": 135,
+    "name": "Pop Culture - BMW M5 HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-bmw-m5-hot-wheels-jbl58-hxd63_2.jpg?v=1755597157",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 136,
+    "name": "Pop Culture - Back To The Future Time Machine HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-back-to-the-future-time-machine-hot-wheels-jbl76-hxd63_2.jpg?v=1755597607",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 137,
+    "name": "Pop Culture - Barbie Movie Corvette HOT WHEELS JBL79/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-barbie-movie-corvette-hot-wheels-jbl79-hxd63_2.jpg?v=1747642302",
+    "series": "Pop Culture",
+    "code": "JBL79/HXD63"
+  },
+  {
+    "id": 138,
+    "name": "Pop Culture - Citroen Type H HOT WHEELS JBL78/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-citroen-type-h-hot-wheels-jbl78-hxd63_1.jpg?v=1759905671",
+    "series": "Pop Culture",
+    "code": "JBL78/HXD63"
+  },
+  {
+    "id": 139,
+    "name": "Pop Culture - Cyberpunk Quadra V-Tech Turbo R HOT WHEELS JBL57/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-cyberpunk-quadra-v-tech-turbo-r-hot-wheels-jbl57-hxd63_1.jpg?v=1759895831",
+    "series": "Pop Culture",
+    "code": "JBL57/HXD63"
+  },
+  {
+    "id": 140,
+    "name": "Pop Culture - Deadpool Scooter HOT WHEELS JBL70/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-deadpool-scooter-hot-wheels-jbl70-hxd63.jpg?v=1747640183",
+    "series": "Pop Culture",
+    "code": "JBL70/HXD63"
+  },
+  {
+    "id": 141,
+    "name": "Pop Culture - Ford Super De Luxe HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-ford-super-de-luxe-hot-wheels-jbl82-hxd63.jpg?v=1747649080",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 142,
+    "name": "Pop Culture - Ghost Rider Charger HOT WHEELS JBL81/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-ghost-rider-charger-hot-wheels-jbl81-hxd63_2.jpg?v=1747642991",
+    "series": "Pop Culture",
+    "code": "JBL81/HXD63"
+  },
+  {
+    "id": 143,
+    "name": "Pop Culture - Knight Rider KITT HOT WHEELS JBL71/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-knight-rider-kitt-hot-wheels-jbl71-hxd63_2.jpg?v=1747640609",
+    "series": "Pop Culture",
+    "code": "JBL71/HXD63"
+  },
+  {
+    "id": 144,
+    "name": "Pop Culture - Lamborghini Huracán LP 620-2 HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-lamborghini-huracan-lp-620-2-hot-wheels-jbl75-hxd63_2.jpg?v=1755597891",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 145,
+    "name": "Pop Culture - Mutt Cutts Van HOT WHEELS JBL80/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-mutt-cutts-van-hot-wheels-jbl80-hxd63_2.jpg?v=1747642594",
+    "series": "Pop Culture",
+    "code": "JBL80/HXD63"
+  },
+  {
+    "id": 146,
+    "name": "Pop Culture - Rick's Ship HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-pop-culture-ricks-ship-hot-wheels-jhw95-hxd63_2.jpg?v=1773806354",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 147,
+    "name": "Pop Culture - Snoopy HOT WHEELS JBL84/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-snoopy-hot-wheels-jbl84-hxd63_1.jpg?v=1759896140",
+    "series": "Pop Culture",
+    "code": "JBL84/HXD63"
+  },
+  {
+    "id": 148,
+    "name": "Pop Culture - The Beatles Yellow Submarine HOT WHEELS JBL74/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-the-beatles-yellow-submarine-hot-wheels-jbl74-hxd63_2.jpg?v=1747641055",
+    "series": "Pop Culture",
+    "code": "JBL74/HXD63"
+  },
+  {
+    "id": 149,
+    "name": "Pop Culture - The Mystery Machine HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-the-mystery-machine-hot-wheels-jbl63-hxd63_2.jpg?v=1747637917",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 150,
+    "name": "Pop Culture - Volkswagen Kool Kombi HOT WHEELS JBL68/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-volkswagen-kool-kombi-hot-wheels-jbl68-hxd63_2.jpg?v=1747639457",
+    "series": "Pop Culture",
+    "code": "JBL68/HXD63"
+  },
+  {
+    "id": 151,
+    "name": "Porsche 935 HOT WHEELS JHW51/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-porsche-935-hot-wheels-jhw51-hbl96_2.jpg?v=1767165015",
+    "series": "Mainline / Others",
+    "code": "JHW51/HBL96"
+  },
+  {
+    "id": 152,
+    "name": "Premium Fast & Furious LAMBORGHINI AVENTADOR COUPE HOT WHEELS JHW77/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/do-choi-sieu-xe-premium-fast-furious-lamborghini-aventador-coupe-jhw77-hnw46_1.jpg?v=1773940753",
+    "series": "Fast & Furious",
+    "code": "JHW77/HNW46"
+  },
+  {
+    "id": 153,
+    "name": "Premium Fast&Furious 1989 Nissan Skyline GTR (R32) HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-1989-nissan-skyline-gtr-r32-hot-wheels-jbl97-hnw46_6.jpg?v=1743760806",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 154,
+    "name": "Premium Fast&Furious 1993 Honda Civic Coupé EX [EJ1] HOT WHEELS JBL90/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-1993-honda-civic-coupe-ex-ej1-hot-wheels-jbl90-hnw46_3.jpg?v=1759893861",
+    "series": "Mainline / Others",
+    "code": "JBL90/HNW46"
+  },
+  {
+    "id": 155,
+    "name": "Premium Fast&Furious 2003 Dodge Viper Srt10 HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-2003-dodge-viper-srt10-hot-wheels-jbl85-hnw46_4.jpg?v=1739960807",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 156,
+    "name": "Premium Fast&Furious 2003 Mitsubishi Lancer HOT WHEELS JBM02/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-2003-mitsubishi-lancer-hot-wheels-jbm02-hnw46_3.jpg?v=1759894947",
+    "series": "Mainline / Others",
+    "code": "JBM02/HNW46"
+  },
+  {
+    "id": 157,
+    "name": "Premium Fast&Furious 2018 Bently Continental Gt3 HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-2018-bentley-continental-gt3-hot-wheels-hvr63-hnw46_4.jpg?v=1728463658",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 158,
+    "name": "Premium Fast&Furious 87 Chevy Caprice HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-87-chevy-caprice-hot-wheels-hrt98-hnw46_3.jpg?v=1728463793",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 159,
+    "name": "Premium Fast&Furious Dodge Charger Hellcat Widebody HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-dodge-charger-hellcat-widebody-hot-wheels-jbl96-hnw46_3.jpg?v=1743760690",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 160,
+    "name": "Premium Fast&Furious Lamborghini Gallardo LP570-4 HOT WHEELS JBM01/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-lamborghini-gallardo-lp570-4-hot-wheels-jbm01-hnw46_3.jpg?v=1759893664",
+    "series": "Mainline / Others",
+    "code": "JBM01/HNW46"
+  },
+  {
+    "id": 161,
+    "name": "Premium Fast&Furious Land Rover Defender 110 Panel HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-land-rover-defender-110-panel-hot-wheels-jbl98-hnw46_5.jpg?v=1739952826",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 162,
+    "name": "Premium Fast&Furious Lykan Hypersport HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-lykan-hypersport-hot-wheels-jhw70-hnw46_3.jpg?v=1770719257",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 163,
+    "name": "Premium Fast&Furious Mazda RX-7 FD HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-mazda-rx-7-fd-hot-wheels-jbl93-hnw46_3.jpg?v=1743760466",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 164,
+    "name": "Premium Fast&Furious Mclaren Senna HOT WHEELS JBL92/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-mclaren-senna-hot-wheels-jbl92-hnw46_5.jpg?v=1739952867",
+    "series": "Mainline / Others",
+    "code": "JBL92/HNW46"
+  },
+  {
+    "id": 165,
+    "name": "Premium Fast&Furious Nissan 180sx HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-nissan-180sx-hot-wheels-hvr62-hnw46_2.jpg?v=1728463327",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 166,
+    "name": "Premium Fast&Furious Nissas 370Z HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-nissan-370z-hot-wheels-jbl91-hnw46_5.jpg?v=1739952835",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 167,
+    "name": "Premium Fast&Furious Porsche 911 Carrera RS 3.8 HOT WHEELS JBM03/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-porsche-911-carrera-rs-3-8-hot-wheels-jbm03-hnw46_2.jpg?v=1759894092",
+    "series": "Mainline / Others",
+    "code": "JBM03/HNW46"
+  },
+  {
+    "id": 168,
+    "name": "Premium Fast&Furious Toyota Fj Cruiser HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-toyota-fj-cruiser-hot-wheels-hrt99-hnw46_3.jpg?v=1728463514",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 169,
+    "name": "Premium Lancia Rally 037/ Fiat 131 Abarth HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premium-lancia-rally-037-fiat-131-abarth-hot-wheels-hrr81-hbl96_4.png?v=1731318234",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 170,
+    "name": "RANGE ROVER CLASSIC HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/FPY86-HKC71.jpg?v=1715655655",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 171,
+    "name": "SUBARU WRX STI 22B HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/products/hck14.fpy86.jpg?v=1685144346",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 172,
+    "name": "Speed Graphics - Big-Air Bel-Air HOT WHEELS HWR60",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-speed-graphics-big-air-bel-air-hot-wheels-hrt05-hwr60_3.jpg?v=1731295062",
+    "series": "Mainline / Others",
+    "code": "HWR60"
+  },
+  {
+    "id": 173,
+    "name": "Speed Graphics - Porsche 914 Safari HOT WHEELS HWR60",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-speed-graphics-porsche-914-safari-hot-wheels-hrt06-hwr60_1.jpg?v=1731294802",
+    "series": "Mainline / Others",
+    "code": "HWR60"
+  },
+  {
+    "id": 174,
+    "name": "Subaru Impreza WRX HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-subaru-impreza-wrx-hot-wheels-jkx59-gdg44_3.jpg?v=1770216581",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 175,
+    "name": "Surf Crate HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-surf-crate-hot-wheels-jcb68-gdg44_2.jpg?v=1745807810",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 176,
+    "name": "TOONED TWIN MILL Hot Wheels HDH54/HVX08",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-phien-ban-ngoc-trai-sieu-xe-hw-phien-ban-ngoc-trai-tooned-twin-mill-hot-wheels-hvx08-hdh54_4.jpg?v=1725703003",
+    "series": "Mainline / Others",
+    "code": "HDH54/HVX08"
+  },
+  {
+    "id": 177,
+    "name": "Team Alpine - Racer 10 HOT WHEELS JKD82/HRV11",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-dua-f1-team-alpine-tay-dua-10-hot-wheels-jkd82-hrv11_4.jpg?v=1776277671",
+    "series": "F1 Racing",
+    "code": "JKD82/HRV11"
+  },
+  {
+    "id": 178,
+    "name": "Team Mclaren - Racer 81 HOT WHEELS HRV11",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-dua-f1-team-mclaren-tay-dua-81-hot-wheels-jkd81-hrv11_3.jpg?v=1770560421",
+    "series": "F1 Racing",
+    "code": "HRV11"
+  },
+  {
+    "id": 179,
+    "name": "Team Mercedes-Benz - Racer 63 HOT WHEELS HRV11",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-dua-f1-team-mercedes-benz-tay-dua-63-hot-wheels-jkd80-hrv11_3.jpg?v=1770558608",
+    "series": "F1 Racing",
+    "code": "HRV11"
+  },
+  {
+    "id": 180,
+    "name": "Toyota Land Cruiser HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-toyota-land-cruiser-hot-wheels-jcb73-gdg44.jpg?v=1745808613",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 181,
+    "name": "Toyota Landcruiser FJ60 HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-toyota-landcruiser-fj60-hot-wheels-hrv88-fpy86_1.jpg?v=1728469158",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 182,
+    "name": "Toyota Supra A70 HOT WHEELS JBK90/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-toyota-supra-a70-hot-wheels-jbk90-fpy86_3.jpg?v=1759829527",
+    "series": "Mainline / Others",
+    "code": "JBK90/FPY86"
+  },
+  {
+    "id": 183,
+    "name": "Ultra Hots - 70 Ford Escort Rs1600 HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-ultra-hots-70-ford-escort-rs1600-hot-wheels-jby60-hdg52_2.jpg?v=1743068575",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 184,
+    "name": "Ultra Hots - 73 BMW 3.0 CSL RACE CAR HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HDG52-HRX03.jpg?v=1715655683",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 185,
+    "name": "Ultra Hots - 81 Toyota Starlet HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-ultra-hots-81-toyota-starlet-hot-wheels-jby66-hdg52_1.jpg?v=1739260504",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 186,
+    "name": "Ultra Hots - 85 HONDA CITY TURBO II HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HDG52-HRX13.jpg?v=1715658013",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 187,
+    "name": "Ultra Hots - 88 Honda CR-X HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-ultra-hots-88-honda-cr-x-hot-wheels-jby63-hdg52_1.jpg?v=1739261289",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 188,
+    "name": "Ultra Hots - Nissan Patrol HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-ultra-hots-nissan-patrol-hot-wheels-jdm28-hdh54_2.jpg?v=1755595311",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 189,
+    "name": "Ultra Hots - Shelby Cobra 427 SC HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-ultra-hots-shelby-cobra-427-sc-hot-wheels-jdm29-hdh54_2.jpg?v=1755595042",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 190,
+    "name": "VW Baja Bug HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-vw-baja-bug-hot-wheels-jcb70-gdg44_1.jpg?v=1744026899",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 191,
+    "name": "Vintage 1971 Nissan Skyline HT 2000 GT-R HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-1971-nissan-skyline-ht-2000-gt-r-hot-wheels-jby89-hrt81.jpg?v=1747646924",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 192,
+    "name": "Vintage 1988 Ford T-Bird HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-1988-ford-t-bird-hot-wheels-jby85-hrt81_1.jpg?v=1739952734",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 193,
+    "name": "Vintage 32 Ford HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-32-ford-hot-wheels-jby84-hrt81_4.jpg?v=1739952779",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 194,
+    "name": "Vintage 41 Willys HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-41-willys-hot-wheels-jby83-hrt81_4.jpg?v=1739952705",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 195,
+    "name": "Vintage 60S Fiat 500D Modificado HOT WHEELS JBY88/HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-60s-fiat-500d-modificado-hot-wheels-jby88-hrt81.jpg?v=1747646724",
+    "series": "Mainline / Others",
+    "code": "JBY88/HRT81"
+  },
+  {
+    "id": 196,
+    "name": "Vintage 65 Mustang 2+2 Fastback HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-vintage-65-mustang-2-2-fastback-hot-wheels-jky31-hrt81_1_93140bd9-806e-429d-a4b2-ebd8c92f5671.jpg?v=1770559899",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 197,
+    "name": "Vintage 67 Porsche 911 R HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-67-porsche-911-r-1-hot-wheels-jby91-hrt81.jpg?v=1747647514",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 198,
+    "name": "Vintage 71 Porsche 911 HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-vintage-71-porsche-911-hot-wheels-jky34-hrt81_1.jpg?v=1770557835",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 199,
+    "name": "Vintage Ford GT-40 HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-ford-gt-40-hot-wheels-jby87-hrt81.jpg?v=1747646419",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 200,
+    "name": "Vintage Ground FX HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-ground-fx-hot-wheels-jby81-hrt81_3.jpg?v=1739952728",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 201,
+    "name": "Vintage Jaguar Lightweight E-Type HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-jaguar-lightweight-e-type-hot-wheels-jby90-hrt81.jpg?v=1747647227",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 202,
+    "name": "Vintage Solar Reflex HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-vintage-solar-reflex-hot-wheels-jby82-hrt81_6.jpg?v=1739952669",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 203,
+    "name": "Vintage Volkswagen Classic Bug (Chase) HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-vintage-volkswagen-classic-bug-chase-hot-wheels-jky35-hrt81_1.jpg?v=1770558092",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 204,
+    "name": "Volkswagen Golf Mk1 Racing HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-volkswagen-golf-mk1-racing-hot-wheels-jcb62-gdg44_1.jpg?v=1739246965",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 205,
+    "name": "XL - 1991 Mercedes 500E HOT WHEELS JKL08/JKL02",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-xl-1991-mercedes-500e-hot-wheels-jkl08-jkl02_1.jpg?v=1776296602",
+    "series": "XL Series",
+    "code": "JKL08/JKL02"
+  },
+  {
+    "id": 206,
+    "name": "XL - 1992 Ford Mustang Foxbody HOT WHEELS JKL05/JKL02",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-xl-1992-ford-mustang-foxbody-hot-wheels-jkl05-jkl02_1.jpg?v=1776296213",
+    "series": "XL Series",
+    "code": "JKL05/JKL02"
+  },
+  {
+    "id": 207,
+    "name": "XL - 1994 Toyota Supra MK4 HOT WHEELS JKL02",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-xl-1994-toyota-supra-mk4-hot-wheels-jkl10-jkl02_3.jpg?v=1770347423",
+    "series": "XL Series",
+    "code": "JKL02"
+  },
+  {
+    "id": 208,
+    "name": "XL - 2020 Lamborghini Sian HOT WHEELS JKL07/JKL02",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-xl-2020-lamborghini-sian-hot-wheels-jkl07-jkl02_1.jpg?v=1776296351",
+    "series": "XL Series",
+    "code": "JKL07/JKL02"
+  },
+  {
+    "id": 209,
+    "name": "XL - 2024 Bmw E30 M3 Wagon HOT WHEELS JKL04/JKL02",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-xl-2024-bmw-e30-m3-wagon-hot-wheels-jkl04-jkl02_1.jpg?v=1776296724",
+    "series": "XL Series",
+    "code": "JKL04/JKL02"
+  },
+  {
+    "id": 210,
+    "name": "XL - Count Muscula HOT WHEELS JKL14/JKL02",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-xl-count-muscula-hot-wheels-jkl14-jkl02_1.jpg?v=1776296818",
+    "series": "XL Series",
+    "code": "JKL14/JKL02"
+  },
+  {
+    "id": 211,
+    "name": "Đồ Siêu Xe Hot Ones - 70 Toyota Celica HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-70-toyota-celica-hot-wheels-jby72-jby68_2.jpg?v=1755588279",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 212,
+    "name": "Đổi Màu HOT WHEELS GYP13",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/products/gyp13_1.jpg?v=1742374474",
+    "series": "Mainline / Others",
+    "code": "GYP13"
+  },
+  {
+    "id": 213,
+    "name": "Vintage BMW 507 HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hw-vintage-bmw-507-hot-wheels-jky26-hrt81_2.jpg?v=1781853532",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 214,
+    "name": "Porsche 917 K HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hang-sang-porsche-917-k-hot-wheels-jkf03-fpy86_2.jpg?v=1781849864",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 215,
+    "name": "76 Greenwood Corvette HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hang-sang-76-greenwood-corvette-hot-wheels-jkf24-fpy86_2.jpg?v=1781850075",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 216,
+    "name": "Neon Speeders 22 Ford Maverick Custom HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/1_8ac1e626-ad39-411c-9e62-adf9558d01f1.jpg?v=1781176149",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 217,
+    "name": "Celebrations Audi 90 Quattro HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-celebrations-audi-90-quattro-hot-wheels-jky15-grt01_2.jpg?v=1781851625",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 218,
+    "name": "Neon Speeders Aston Martin Vantage GTE HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-aston-martin-vantage-gte-hot-wheels-jky05-hlh72_2.jpg?v=1781852911",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 219,
+    "name": "Boulevard Koenigsegg CC850 HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-koenigsegg-cc850-hot-wheels-jhw21-gjt68_2.jpg?v=1781850507",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 220,
+    "name": "Jaguar XJS HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hang-sang-jaguar-xjs-hot-wheels-jkf02-fpy86_2.jpg?v=1781850002",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 221,
+    "name": "Celebrations Audi R8 LMS HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-celebrations-audi-r8-lms-hot-wheels-jky16-grt01_1.jpg?v=1781851687",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 222,
+    "name": "Celebrations Audi RS E-Tron GT HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-celebrations-audi-rs-e-tron-gt-hot-wheels-jky18-grt01_2_5a771f45-6b0d-41e2-9101-0fb4730197bb.jpg?v=1781852633",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 223,
+    "name": "Neon Speeders 2004 Mazda Mazdaspeed Miata HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hot-wheels-neon-speeders-2004-mazda-mazdaspeed-miata-hot-wheels-jky08-hlh72_2.jpg?v=1781853070",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 224,
+    "name": "Vintage 65 Ford Galaxie HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hw-vintage-65-ford-galaxie-hot-wheels-jky29-hrt81_2.jpg?v=1781853272",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 225,
+    "name": "Boulevard 1967 Jeepster Commando HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-1967-jeepster-commando-hot-wheels-jhw29-gjt68_4.jpg?v=1781850586",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 226,
+    "name": "Vintage Custom 70 Honda N600 HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hw-vintage-custom-70-honda-n600-hot-wheels-jky27-hrt81_2.jpg?v=1781854155",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 227,
+    "name": "Vintage Alfa Romeo GTV6 30 HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hw-vintage-alfa-romeo-gtv6-30-hot-wheels-jky30-hrt81_2.jpg?v=1781854006",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 228,
+    "name": "Boulevard Toyota Alphard HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-toyota-alphard-hot-wheels-jhw20-gjt68_2.jpg?v=1781850282",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 229,
+    "name": "Neon Speeders 2016 Subaru WRX STI (Chase) HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hw-neon-speeders-2016-subaru-wrx-sti-chase-hot-wheels-jky06-hlh72_2.jpg?v=1781853182",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 230,
+    "name": "Boulevard Datsun King Cab Baja Custom HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-datsun-king-cab-baja-custom-hot-wheels-jhw32-gjt68_2.jpg?v=1781850350",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 231,
+    "name": "Neon Speeders 2017 Camaro ZL1 HOT WHEELS JKY04/HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hot-wheels-neon-speeders-2017-camaro-zl1-hot-wheels-jky04-hlh72_2.jpg?v=1781852984",
+    "series": "Neon Speeders",
+    "code": "JKY04/HLH72"
+  },
+  {
+    "id": 232,
+    "name": "Neon Speeders BMW M4 HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-bmw-m4-hot-wheels-jky02-hlh72_2.jpg?v=1781854404",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 233,
+    "name": "Lancia Stratos HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hang-sang-lancia-stratos-hot-wheels-jkf26-fpy86_2_891ce705-e693-4122-9a68-7e99f1f7f393.jpg?v=1781849789",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 234,
+    "name": "Celebrations Audi RS 5 Coupe HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-celebrations-audi-rs-5-coupe-hot-wheels-jky17-grt01_2.jpg?v=1781851747",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 235,
+    "name": "Pop Culture 66 Porsche 906 Carrera 6 HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hot-wheels-pop-culture-66-porsche-906-carrera-6-hot-wheels-jhw97-hxd63_1.jpg?v=1778495662",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 236,
+    "name": "Fast And Furious Honda Civic Eg HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-honda-civic-eg-hot-wheels-jkx19-hnr88_4.jpg?v=1778509983",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 237,
+    "name": "Pantone - Custom 69 Volkswagen Squareback HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pantone-custom-69-volkswagen-squareback-hot-wheels-jky60-jky47_4.jpg?v=1778496909",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 238,
+    "name": "Fast And Furious Toyota Celica HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-toyota-celica-fast-furious-hot-wheels-jkx15-hnr88_1.jpg?v=1778507231",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 239,
+    "name": "Toyota Land Cruiser 80 HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-toyota-land-cruiser-80-hot-wheels-jkx88-hdh54_3.jpg?v=1778495735",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 240,
+    "name": "BMW M3 Wagon / Remorque HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-bmw-m3-wagon-remorque-hot-wheels-jkx87-hdh54_3.jpg?v=1778496504",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 241,
+    "name": "Fiat 500e HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-fiat-500e-hot-wheels-jkx91-hdh54_3.jpg?v=1778496660",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 242,
+    "name": "Pop Culture Hiss Tank HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-hiss-tank-hot-wheels-jhw83-hxd63_1.jpg?v=1778493728",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 243,
+    "name": "Pantone - Sandblaster HOT WHEELS JKY47",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pantone-sandblaster-hot-wheels-jky64-jky47_4.jpg?v=1778497228",
+    "series": "Pantone Monochrome",
+    "code": "JKY47"
+  },
+  {
+    "id": 244,
+    "name": "Pop Culture Custom Gmc Panel Van HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hot-wheels-pop-culture-custom-gmc-panel-van-hot-wheels-jhw98-hxd63_1.jpg?v=1778496701",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 245,
+    "name": "Ford Escort HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-ford-escort-hot-wheels-jkx90-hdh54_3.jpg?v=1778495312",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 246,
+    "name": "Rodger Dodger 2.0 HOT WHEELS JKX89/HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-rodger-dodger-2-0-hot-wheels-jkx89-hdh54_3.jpg?v=1778495511",
+    "series": "Mainline / Others",
+    "code": "JKX89/HDH54"
+  },
+  {
+    "id": 247,
+    "name": "Pop Culture Spider Mobile HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hot-wheels-pop-culture-spider-mobile-hot-wheels-jhx06-hxd63_1.jpg?v=1778497552",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 248,
+    "name": "Fast And Furious Volkswagen Jetta MK3 HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-volkswagen-jetta-mk3-hot-wheels-jkx17-hnr88_1.jpg?v=1778509222",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 249,
+    "name": "Hot Ones - Alfa Romeo Gtv6 30 HOT WHEELS JKX49/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-alfa-romeo-gtv6-30-hot-wheels-jkx49-jby68_3.jpg?v=1776279458",
+    "series": "Hot Ones",
+    "code": "JKX49/JBY68"
+  },
+  {
+    "id": 250,
+    "name": "Team Williams - Racer 55 HOT WHEELS JKD85/HRV11",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-dua-f1-team-williams-tay-dua-55-hot-wheels-jkd85-hrv11_4.jpg?v=1776276990",
+    "series": "Mainline / Others",
+    "code": "JKD85/HRV11"
+  },
+  {
+    "id": 251,
+    "name": "Team Sauber - Racer 27 HOT WHEELS JKD84/HRV11",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-dua-f1-team-sauber-tay-dua-27-hot-wheels-jkd84-hrv11_4.jpg?v=1776277267",
+    "series": "Mainline / Others",
+    "code": "JKD84/HRV11"
+  },
+  {
+    "id": 252,
+    "name": "XL - Mod Rod HOT WHEELS JKL11/JKL02",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-xl-mod-rod-hot-wheels-jkl11-jkl02_1.jpg?v=1776296465",
+    "series": "XL Series",
+    "code": "JKL11/JKL02"
+  },
+  {
+    "id": 253,
+    "name": "Mazda 323 GTR HOT WHEELS JKF17/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hang-sang-mazda-323-gtr-hot-wheels-jkf17-fpy86_4.jpg?v=1776246512",
+    "series": "F1 Racing",
+    "code": "JKF17/FPY86"
+  },
+  {
+    "id": 254,
+    "name": "Entertainment - Grand Cross HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-entertainment-grand-cross-hot-wheels-jkx32-gdg83_4.jpg?v=1776939082",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 255,
+    "name": "Entertainment - Morris Mini HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-entertainment-morris-mini-hot-wheels-jkx31-gdg83_4.jpg?v=1776939971",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 256,
+    "name": "Entertainment - MS-T Suzuka HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-entertainment-ms-t-suzuka-hot-wheels-jkx33-gdg83_4.jpg?v=1776939511",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 257,
+    "name": "Toyota Soarer HOT WHEELS JKF15/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hang-sang-toyota-soarer-hot-wheels-jkf15-fpy86_3.jpg?v=1776246196",
+    "series": "F1 Racing",
+    "code": "JKF15/FPY86"
+  },
+  {
+    "id": 258,
+    "name": "Hot Ones - 73 Honda Civic Custom HOT WHEELS JKX47/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-73-honda-civic-custom-hot-wheels-jkx47-jby68_3.jpg?v=1776279351",
+    "series": "Hot Ones",
+    "code": "JKX47/JBY68"
+  },
+  {
+    "id": 259,
+    "name": "Hot Ones - 1986 Toyota Van HOT WHEELS JKX53/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-1986-toyota-van-hot-wheels-jkx53-jby68_3.jpg?v=1776278816",
+    "series": "Hot Ones",
+    "code": "JKX53/JBY68"
+  },
+  {
+    "id": 260,
+    "name": "Hot Ones - Lamborghini Countach Pace Car HOT WHEELS JKX52/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-lamborghini-countach-pace-car-hot-wheels-jkx52-jby68_3.jpg?v=1776279467",
+    "series": "Hot Ones",
+    "code": "JKX52/JBY68"
+  },
+  {
+    "id": 261,
+    "name": "Hot Ones - Volkswagen Caddy HOT WHEELS JKX48/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-volkswagen-caddy-hot-wheels-jkx48-jby68_3.jpg?v=1776278995",
+    "series": "Hot Ones",
+    "code": "JKX48/JBY68"
+  },
+  {
+    "id": 262,
+    "name": "67 Ford Anglia Racer HOT WHEELS JHW50/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-67-ford-anglia-racer-hot-wheels-jhw50-hbl96_6.jpg?v=1776276615",
+    "series": "Mainline / Others",
+    "code": "JHW50/HBL96"
+  },
+  {
+    "id": 263,
+    "name": "Entertainment - Custom 77 Dodge Van HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-entertainment-custom-77-dodge-van-hot-wheels-jkx34-gdg83_4.jpg?v=1776939729",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 264,
+    "name": "Hot Ones - 73 BMW 3.0 CSL Race Car HOT WHEELS JKX51/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-73-bmw-3-0-csl-race-car-hot-wheels-jkx51-jby68_3.jpg?v=1776279343",
+    "series": "Hot Ones",
+    "code": "JKX51/JBY68"
+  },
+  {
+    "id": 265,
+    "name": "Entertainment - Custom Volkswagen Beetle HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-entertainment-custom-volkswagen-beetle-hot-wheels-jkx30-gdg83_4.jpg?v=1776939289",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 266,
+    "name": "2004 VW Golf R32 HOT WHEELS JHW49/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-2004-vw-golf-r32-hot-wheels-jhw49-hbl96_6.jpg?v=1776276666",
+    "series": "Mainline / Others",
+    "code": "JHW49/HBL96"
+  },
+  {
+    "id": 267,
+    "name": "Hot Ones - 69 Camaro HOT WHEELS JKX54/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-69-camaro-hot-wheels-jkx54-jby68_3.jpg?v=1776279480",
+    "series": "Hot Ones",
+    "code": "JKX54/JBY68"
+  },
+  {
+    "id": 268,
+    "name": "Team Sauber - Racer 05 HOT WHEELS JKD89/HRV11",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-dua-f1-team-sauber-tay-dua-05-hot-wheels-jkd89-hrv11_4.jpg?v=1776277685",
+    "series": "Mainline / Others",
+    "code": "JKD89/HRV11"
+  },
+  {
+    "id": 269,
+    "name": "Back To The Future Time HOT WHEELS JHW48/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-back-to-the-future-time-hot-wheels-jhw48-hbl96_6.jpg?v=1776277440",
+    "series": "Mainline / Others",
+    "code": "JHW48/HBL96"
+  },
+  {
+    "id": 270,
+    "name": "Hot Ones - 32 Ford HOT WHEELS JKX50/JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-32-ford-hot-wheels-jkx50-jby68_3.jpg?v=1776278838",
+    "series": "Hot Ones",
+    "code": "JKX50/JBY68"
+  },
+  {
+    "id": 271,
+    "name": "BOULEVARD - 69 FORD TORINO TALLADEGA HOT WHEELS JHW28/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-69-ford-torino-talladega-jhw28-gjt68_1.jpg?v=1773914668",
+    "series": "Boulevard",
+    "code": "JHW28/GJT68"
+  },
+  {
+    "id": 272,
+    "name": "BOULEVARD - CUSTOM 67 MUSTANG HOT WHEELS JHW40/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/do-choi-sieu-xe-hw-boulevard-custom-67-mustang-jhw40-gjt68_1.jpg?v=1773938567",
+    "series": "Boulevard",
+    "code": "JHW40/GJT68"
+  },
+  {
+    "id": 273,
+    "name": "84 MUSTANG SVO HOT WHEELS JKF31/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-84-mustang-svo-hot-wheels-jkf31-fpy86_1.jpg?v=1773736307",
+    "series": "Mainline / Others",
+    "code": "JKF31/FPY86"
+  },
+  {
+    "id": 274,
+    "name": "Pop Culture - Rugrats Reptar Car HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-pop-culture-rugrats-reptar-car-hot-wheels-jhw87-hxd63_2.jpg?v=1773805944",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 275,
+    "name": "60s Fiat 500d Modificado HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-60s-fiat-500d-modificado-hot-wheels-jkx70-gdg44_2.jpg?v=1773917257",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 276,
+    "name": "Ford Performance Supervan 4 HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-ford-performance-supervan-4-hot-wheels-jkx64-gdg44_2.jpg?v=1773916559",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 277,
+    "name": "Premium Fast & Furious 1970 CHEVROLET CHEVELLE SS HOT WHEELS JHW73/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/do-choi-sieu-xe-premium-fast-furious-1970-chevrolet-chevelle-ss-jhw73-hnw46_1.jpg?v=1773940191",
+    "series": "Fast & Furious",
+    "code": "JHW73/HNW46"
+  },
+  {
+    "id": 278,
+    "name": "Pop Culture - 84 Corvette HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-pop-culture-84-corvette-hot-wheels-jhw93-hxd63_2.jpg?v=1773806696",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 279,
+    "name": "Premium Fast & Furious 1967 CHEVROLET C/K F4 HOT WHEELS JHW61/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-1967-chevrolet-c-k-f4-jhw61-hnw46_1.jpg?v=1773939554",
+    "series": "Fast & Furious",
+    "code": "JHW61/HNW46"
+  },
+  {
+    "id": 280,
+    "name": "Pop Culture - Animated Series Batmobile HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-pop-culture-animated-series-batmobile-hot-wheels-jhw88-hxd63_2.jpg?v=1773806093",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 281,
+    "name": "JEEP GRAND CHEROKEE TRACKHAWK HOT WHEELS JKF28/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-jeep-grand-cherokee-trackhawk-hot-wheels-jkf28-fpy8_1.jpg?v=1773733245",
+    "series": "Mainline / Others",
+    "code": "JKF28/FPY86"
+  },
+  {
+    "id": 282,
+    "name": "BOULEVARD - TOYOTA GR YARIS HOT WHEELS JHW19/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-sieu-xe-hw-boulevard-toyota-gr-yaris-jhw19-gt_1.jpg?v=1773743379",
+    "series": "Boulevard",
+    "code": "JHW19/GJT68"
+  },
+  {
+    "id": 283,
+    "name": "Premium Fast & Furious HONDA DEL SOL F1 HOT WHEELS JHW63/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/do-choi-sieu-xe-premium-fast-furious-honda-del-sol-f1-jhw63-hnw46_1.jpg?v=1773939887",
+    "series": "Fast & Furious",
+    "code": "JHW63/HNW46"
+  },
+  {
+    "id": 284,
+    "name": "Pop Culture - Time Machine 50S Version HOT WHEELS HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-pop-culture-time-machine-50s-version-hot-wheels-jhw94-hxd63_2.jpg?v=1773806893",
+    "series": "Pop Culture",
+    "code": "HXD63"
+  },
+  {
+    "id": 285,
+    "name": "99 FORD F150 SVT LIGHTNING HOT WHEELS JKF33/FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-sieu-xe-hot-wheels-hang-sang-99-ford-f150-svt-lightning-hot-wheels-jkf33-fpy86_1.jpg?v=1773742312",
+    "series": "F1 Racing",
+    "code": "JKF33/FPY86"
+  },
+  {
+    "id": 286,
+    "name": "Entertainment - Fishd & Chipd HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-chu-de-entertainment-fishd-chipd-hot-wheels-jkx28-gdg83_3.jpg?v=1770801108",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 287,
+    "name": "Entertainment - Cool-One HOT WHEELS GDG83",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-chu-de-entertainment-cool-one-hot-wheels-jkx25-gdg83_3.jpg?v=1770801285",
+    "series": "Entertainment",
+    "code": "GDG83"
+  },
+  {
+    "id": 288,
+    "name": "Ford Escort RS2000 HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-ford-escort-rs2000-hot-wheels-jkx63-gdg44_1.jpg?v=1770217770",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 289,
+    "name": "1977 Toyota Celica (RA28) HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-1977-toyota-celica-ra28-hot-wheels-jkd98-fpy86_3.jpg?v=1770100079",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 290,
+    "name": "Hot Ones - 60S Fiat 500D Modificado HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-60s-fiat-500d-modificado-hot-wheels-jkx44-jby68_3.jpg?v=1770561851",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 291,
+    "name": "Fast&Furious 70 Monte Carlo HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-70-monte-carlo-hot-wheels-jkx07-hnr88_3.jpg?v=1770491137",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 292,
+    "name": "Fast&Furious Chevy Fleetline HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-fast-furious-chevy-fleetline-hot-wheels-jkx11-hnr88_3.jpg?v=1770489956",
+    "series": "Mainline / Others",
+    "code": "HNR88"
+  },
+  {
+    "id": 293,
+    "name": "Neon Speeders - 1985 HONDA CR-X (CHASE) HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-neon-speeders-1985-honda-cr-x-chase-hot-wheels-JKX99-HLH72_1.jpg?v=1770286899",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 294,
+    "name": "Neon Speeders - CUSTOM FORD MAVERICK HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-custom-ford-maverick-hot-wheels-JKX94-HLH72_1.jpg?v=1770284035",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 295,
+    "name": "Honda S800 Racing HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-honda-s800-racing-hot-wheels-jkx62-gdg44_1.jpg?v=1770217936",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 296,
+    "name": "Premium Fast&Furious 69 Mustang Boss 302 HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-69-mustang-boss-302-hot-wheels-jhw72-hnw46_3.jpg?v=1770548800",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 297,
+    "name": "88 Honda CRX HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-88-honda-crx-hot-wheels-jkf13-fpy86_3.jpg?v=1770099860",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 298,
+    "name": "BOULEVARD - 1978 DODGE LIL RED EXPRESS TRUCK HOT WHEELS JHW27/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-1978-dodge-lil-red-express-truck-hot-wheels-JHW27-GJT68_1.jpg?v=1770278732",
+    "series": "Boulevard",
+    "code": "JHW27/GJT68"
+  },
+  {
+    "id": 299,
+    "name": "BOULEVARD - NISSAN 300ZX TWIN TURBO HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-nissan-300zx-twin-turbo-hot-wheels-JHW25-GJT68_1.jpg?v=1770279385",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 300,
+    "name": "Neon Speeders - 64 CHEVY NOVA GASSER HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-64-chevy-nova-gasser-JKX96-HLH72_1.jpg?v=1770289052",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 301,
+    "name": "Toyota AE86 Sprinter Trueno HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-toyota-ae86-sprinter-trueno-hot-wheels-jkf10-fpy86_3.jpg?v=1770099102",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 302,
+    "name": "BOULEVARD - 2002 PONTIAC FIREBIRD HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/JHW17_2.jpg?v=1770277535",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 303,
+    "name": "Hot Ones - 71 Datsun 510 HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-71-datsun-510-hot-wheels-jkx55-jby68_3.jpg?v=1770561810",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 304,
+    "name": "Subaru Impreza WRX HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-subaru-impreza-wrx-hot-wheels-jkf21-fpy86_3.jpg?v=1770648353",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 305,
+    "name": "Vintage Sooo Fast HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-vintage-sooo-fast-hot-wheels-jky32-hrt81_1.jpg?v=1770557630",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 306,
+    "name": "Datsun 620 HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-datsun-620-hot-wheels-jkf12-fpy86_3.jpg?v=1770099258",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 307,
+    "name": "Neon Speeders 62 CORVETTE HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-62-corvette-JKX95-HLH72_1.jpg?v=1770285960",
+    "series": "Neon Speeders",
+    "code": "Neon Speeders 62 CORVETTE HLH72"
+  },
+  {
+    "id": 308,
+    "name": "BOULEVARD - 93 TOYOTA 4RUNNER HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-93-toyota-4runner-hot-wheels-JHW18-GJT68_1.jpg?v=1770279677",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 309,
+    "name": "Celebrations 1984 PONTIAC FIREBIRD HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-1984-pontiac-firebird-hot-wheels-JKY09-GRT01_1.jpg?v=1770280567",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 310,
+    "name": "Hot Ones - Mazda Repu HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-mazda-repu-hot-wheels-jkx40-jby68_3.jpg?v=1770560940",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 311,
+    "name": "Porsche 914 Safari HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-porsche-914-safari-hot-wheels-jkf22-fpy86_3.jpg?v=1770101622",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 312,
+    "name": "Vintage Mod Rod HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-vintage-mod-rod-hot-wheels-jky33-hrt81_1.jpg?v=1770549827",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 313,
+    "name": "Hot Ones - 69 Corvette Racer HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hot-ones-69-corvette-racer-hot-wheels-jkx41-jby68_3.jpg?v=1770561862",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 314,
+    "name": "Mercedes-Benz 300 SEL 6.8 AMG HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-mercedes-benz-300-sel-6-8-amg-hot-wheels-jkf20-fpy86_3.jpg?v=1770100320",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 315,
+    "name": "Neon Speeders - VOLKSWAGEN SP2 HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HLH72-JKX98_1.jpg?v=1770285539",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 316,
+    "name": "Celebrations 70 PONTIAC GTO JUDGE HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-70-pontiac-gto-judge-hot-wheels-JKY13-GRT01_1.jpg?v=1770281393",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 317,
+    "name": "71 Datsun 510 HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-the-thao-71-datsun-510-hot-wheels-jkx64-gdg44_1.jpg?v=1770217567",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 318,
+    "name": "Celebrations 06 PONTIAC GTO HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-06-pontiac-gto-hot-wheels-JKY10-GRT01_1.jpg?v=1770282056",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 319,
+    "name": "Lancia Delta S4 HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-lancia-delta-s4-hot-wheels-jkf01-fpy86_3.jpg?v=1770101396",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 320,
+    "name": "Premium Fast&Furious Mercedes-Benz 500 Sel HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-mercedes-benz-500-sel-hot-wheels-jhw67-hnw46_3.jpg?v=1770549045",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 321,
+    "name": "Celebrations 65 PONTIAC BONNEVILLE HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-celebrations-65-pontiac-bonneville-hot-wheels-jky12-grt01_1.jpg?v=1770282792",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 322,
+    "name": "Neon Speeders - 70 DODGE HEMI CHALLENGER HOT WHEELS JKX97/HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-neon-speeders-70-dodge-hemi-challenger-hot-wheels-JKX97-HLH72_1.jpg?v=1770286362",
+    "series": "Neon Speeders",
+    "code": "JKX97/HLH72"
+  },
+  {
+    "id": 323,
+    "name": "Neon Speeders - VOLVO 850 ESTATE HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-neon-speeders-volvo-850-estate-hot-wheels-jkx93-hlh72_1.jpg?v=1770287328",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 324,
+    "name": "Mitsubishi Lancer HOT WHEELS JHW46/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-mitsubishi-lancer-hot-wheels-jhw46-hbl96_2.jpg?v=1767164006",
+    "series": "Mainline / Others",
+    "code": "JHW46/HBL96"
+  },
+  {
+    "id": 325,
+    "name": "Dodge Challenger HOT WHEELS JHW47/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-dodge-challenger-hot-wheels-jhw47-hbl96_2.jpg?v=1767164555",
+    "series": "Mainline / Others",
+    "code": "JHW47/HBL96"
+  },
+  {
+    "id": 326,
+    "name": "Boulevard - 1975 Ford Bronco HOT WHEELS JBL12/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-1975-ford-bronco-hot-wheels-jbl12-gjt68_3.jpg?v=1766333309",
+    "series": "Boulevard",
+    "code": "JBL12/GJT68"
+  },
+  {
+    "id": 327,
+    "name": "Alfa Romeo HOT WHEELS JBK95/HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-alfa-romeo-hot-wheels-jbk95-hbl96_5.jpg?v=1766334543",
+    "series": "Mainline / Others",
+    "code": "JBK95/HBL96"
+  },
+  {
+    "id": 328,
+    "name": "Boulevard - Ford RS200 HOT WHEELS JBL29/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-ford-rs200-hot-wheels-jbl29-gjt68_3.jpg?v=1766333155",
+    "series": "Boulevard",
+    "code": "JBL29/GJT68"
+  },
+  {
+    "id": 329,
+    "name": "Mô Hình Siêu Xe Pop Culture - Airwolf Helicopter HOT WHEELS JBL56/HXD63",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-pop-culture-airwolf-helicopter-hot-wheels-jbl56-hxd63_1.jpg?v=1759905351",
+    "series": "Pop Culture",
+    "code": "JBL56/HXD63"
+  },
+  {
+    "id": 330,
+    "name": "Mô Hình Siêu Xe Premium Fast&Furious 1998 Toyota Chaser JZX100 HOT WHEELS JBL89/HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-1998-toyota-chaser-jzx100-hot-wheels-jbl89-hnw46_3.jpg?v=1759893461",
+    "series": "Mainline / Others",
+    "code": "JBL89/HNW46"
+  },
+  {
+    "id": 331,
+    "name": "Subaru Brat HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-subaru-brat-hot-wheels-jkx85-hdh54_1.jpg?v=1757489282",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 332,
+    "name": "Boulevard - 77 Pontiac Firebird T/A HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-77-pontiac-firebird-t-a-hot-wheels-jbl28-gjt68_5.jpg?v=1757480645",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 333,
+    "name": "87 Dodge D100 HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-87-dodge-d100-hot-wheels-jkx84-hdh54_1.jpg?v=1757489137",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 334,
+    "name": "Bone Shaker HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-bone-shaker-hot-wheels-jkx81-hdh54_1.jpg?v=1757488565",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  },
+  {
+    "id": 335,
+    "name": "Premiums Toyota Supra HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-toyota-supra-hot-wheels-jbl03-hbl96_2.jpg?v=1755593185",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 336,
+    "name": "Hot Ones - Fiat 500 Topolino (1936) HOT WHEELS JBY68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-ones-fiat-500-topolino-1936-hot-wheels-jby69-jby68_2.jpg?v=1755587131",
+    "series": "Hot Ones",
+    "code": "JBY68"
+  },
+  {
+    "id": 337,
+    "name": "Subaru Crosstrek HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-subaru-crosstrek-hot-wheels-jbk98-hbl96_2.jpg?v=1755592448",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 338,
+    "name": "Premiums Rob N' Pinks HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-rob-n-pinks-hot-wheels-jbl01-hbl96_2.jpg?v=1755593370",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 339,
+    "name": "Mô Hình Siêu Xe Boulevard - 98 Toyota Altezza HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-98-toyota-altezza-hot-wheels-jbl23-gjt68.jpg?v=1753081139",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 340,
+    "name": "Mô Hình Siêu Xe Premium Fast&Furious 70 Plymouth Roadrunner HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-70-plymouth-roadrunner-hot-wheels-jbl87-hnw46.jpg?v=1753081756",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 341,
+    "name": "Mô Hình Siêu Xe Sang Trọng Volvo 850 Estate HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-volvo-850-estate-hot-wheels-jbk68-fpy86_2.jpg?v=1749806778",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 342,
+    "name": "Mô Hình Siêu Xe Sang Trọng 70 Chevelle SS Wagon HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-70-chevelle-ss-wagon-hot-wheels-jbk67-fpy86_2.jpg?v=1749806373",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 343,
+    "name": "Mô Hình Siêu Xe Sang Trọng Subaru Forester STI HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-subaru-forester-sti-hot-wheels-jbk87-fpy86_2.jpg?v=1749809075",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 344,
+    "name": "Mô Hình Bộ Đôi Siêu Xe LGNDS Team Transport HOT WHEELS JFM93",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-lgnds-team-transport-hot-wheels-jfm93_2.jpg?v=1747648709",
+    "series": "Mainline / Others",
+    "code": "JFM93"
+  },
+  {
+    "id": 345,
+    "name": "VOLKSWAGEN KOOL KOMBI HOT WHEELS JBL68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-volkswagen-kool-kombi-jbl68_1.jpg?v=1747738017",
+    "series": "Mainline / Others",
+    "code": "JBL68"
+  },
+  {
+    "id": 346,
+    "name": "Neon Speeders 2008 LANCER EVOLUTION JCB02/HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/Untitled-2-01_c087de7a-fa0b-4828-9f49-b44b66a24bb8.jpg?v=1747669309",
+    "series": "Neon Speeders",
+    "code": "Neon Speeders 2008 LANCER EVOLUTION JCB02/HLH72"
+  },
+  {
+    "id": 347,
+    "name": "Mô Hình Bộ Đôi Siêu Xe Premiums Lancia Stratos Zero HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-premiums-lancia-stratos-zero-hot-wheels-jbl02-hbl96_2.jpg?v=1747650959",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 348,
+    "name": "Neon Speeders BMW 2002 HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-bmw-2002-HLH72-JCB07.jpg?v=1747646917",
+    "series": "Neon Speeders",
+    "code": "Neon Speeders BMW 2002 HLH72"
+  },
+  {
+    "id": 349,
+    "name": "Premium Fast&Furious Alfa Romeo Giulia Sprint GTA HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-alfa-romeo-guilia-sprint-gta-hot-wheels-jbm04-hnw46_5.jpg?v=1743760946",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 350,
+    "name": "Mô Hình Siêu Xe Sang Trọng Lancia Stratos Zero HOT WHEELS HRV77",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-lancia-stratos-zero-hot-wheels-hrv77-fpy86_2.jpg?v=1749442195",
+    "series": "Mainline / Others",
+    "code": "HRV77"
+  },
+  {
+    "id": 351,
+    "name": "Volkswagen Caddy HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-volkswagen-caddy-hot-wheels-jcb69-gdg44_3.jpg?v=1744026807",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 352,
+    "name": "Mô Hình Siêu Xe Boulevard - Meyers Manx HOT WHEELS JBL22/GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-meyers-manx-hot-wheels-jbl22-gjt68_3.jpg?v=1752569913",
+    "series": "Boulevard",
+    "code": "JBL22/GJT68"
+  },
+  {
+    "id": 353,
+    "name": "77 Dodge Van HOT WHEELS GDG44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-the-thao-77-dodge-van-hot-wheels-jcb66-gdg44_5.jpg?v=1743762077",
+    "series": "Mainline / Others",
+    "code": "GDG44"
+  },
+  {
+    "id": 354,
+    "name": "Mô Hình Siêu Xe Sang Trọng 86 MG METRO 6R4 HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-86-mg-metro-6r4-HRV77-FPY86_1.jpg?v=1758704376",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 355,
+    "name": "Premium Fast&Furious 66 Impala Sport Coupe HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-66-impala-sport-coupe-hot-wheels-jbl95-hnw46_3.jpg?v=1743760551",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 356,
+    "name": "Boulevard - Lancia Delta Integrale HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-lancia-delta-integrale-hot-wheels-GJT68-JBL18_5.jpg?v=1739952774",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 357,
+    "name": "Premium Fast&Furious 1970 Chevelle SS (Red) HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-1970-chevelle-ss-red-hot-wheels-jbl94-hnw46_1-4.jpg?v=1739952753",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 358,
+    "name": "Bộ Tứ Siêu Xe Sang Trọng HOT WHEELS GMH39",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-tu-sieu-xe-sang-tr_ng-hot-wheels-GMH39_1.jpg?v=1743042724",
+    "series": "Mainline / Others",
+    "code": "GMH39"
+  },
+  {
+    "id": 359,
+    "name": "Subaru B.R.A.T HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-subaru-b-r-a-t-hot-wheels-jbk72-fpy86_5.jpg?v=1739952693",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 360,
+    "name": "1987 Toyota Pickup Truck HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-1987-toyota-pickup-truck-hot-wheels-jbk73-fpy86_4.jpg?v=1739952684",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 361,
+    "name": "Boulevard - '69 Dodge Charger HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-69-dodge-charger-hot-wheels-jbl25-gjt68_2.jpg?v=1739952839",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 362,
+    "name": "Ultra Hots - 69 CoPo Corvette HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-ultra-hots-69-copo-corvette-hot-wheels-jby67-hdg52_1.jpg?v=1739244005",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 363,
+    "name": "Ultra Hots - Volkswagen T1-Gtr HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-ultra-hots-volkswagen-t1-gtr-hot-wheels-jby61-hdg52_1.jpg?v=1739261539",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 364,
+    "name": "Máy Hot Wheels X4221",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-may-hot-wheels-x4221_6.jpg?v=1758766874",
+    "series": "Mainline / Others",
+    "code": "X4221"
+  },
+  {
+    "id": 365,
+    "name": "Boulevard - 32 Ford HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-32-ford-hot-wheels-jfm94-gjt68_3.jpg?v=1733800726",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 366,
+    "name": "Boulevard - 1967 Volkswage Samba Bus HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-1967-volkswagen-samba-bus-hot-wheels-hrt62-gjt68_2.jpg?v=1733738215",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 367,
+    "name": "Subaru Forester Sti HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-sang-trong-subaru-forester-sti-hot-wheels-hrv74-fpy86_1.jpg?v=1733739254",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 368,
+    "name": "Tải Trung Chuyển HOT WHEELS HYT56",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-tai-trung-chuyen-hot-wheels-hyt56_7.jpg?v=1733020232",
+    "series": "Mainline / Others",
+    "code": "HYT56"
+  },
+  {
+    "id": 369,
+    "name": "Premiums 12 HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-12-hot-wheels-hrr84-hbl96_5.jpg?v=1731295529",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 370,
+    "name": "Premiums 8 HOT WHEELS HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-premiums-8-hot-wheels-hrr80-hbl96_2.jpg?v=1731295993",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 371,
+    "name": "Speed Graphics - Range Rover Classic HOT WHEELS HWR60",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-speed-graphics-range-rover-classic-hot-wheels-hrt08-hwr60_2.jpg?v=1731294267",
+    "series": "Mainline / Others",
+    "code": "HWR60"
+  },
+  {
+    "id": 372,
+    "name": "Hot Wheels MONSTER TRUCKS FYJ64M",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/bo-doi-sieu-xe-hot-wheels-monster-trucks-fyj64m_1.jpg?v=1733283173",
+    "series": "Mainline / Others",
+    "code": "MONSTER TRUCKS FYJ64M"
+  },
+  {
+    "id": 373,
+    "name": "Jeep Gladiator HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-jeep-gladiator-hot-wheels-fpy86-hrv91_3.jpg?v=1728468827",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 374,
+    "name": "Boulevard Ford Transit Super Van HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-boulevard-ford-transit-super-van-hot-wheels-hrt76-gjt68_2.jpg?v=1728466387",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 375,
+    "name": "Boulevard De Tomaso Pantera Gts Gruppo 4 HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-boulevard-de-tomaso-pantera-gts-gruppo-4-hot-wheels-gjt68-hrt75_0.jpg?v=1728837836",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 376,
+    "name": "Datsun Off-Road Racer HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/Untitled-1-02_7a9e087b-4ace-4f6c-9b4f-88af80ccc48d.jpg?v=1728468146",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 377,
+    "name": "Mitsubishi Pajero Evolution HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-mitsubishi-pajero-evolution-hot-wheels-hrv89-fpy86_2.jpg?v=1728469398",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 378,
+    "name": "Premium Fast&Furious Ford F-150 Svt Lightning HOT WHEELS HNW46",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-premium-fast-furious-ford-f-150-svt-lightning-hot-wheels-hyp75-hnw46_1.jpg?v=1728463897",
+    "series": "Mainline / Others",
+    "code": "HNW46"
+  },
+  {
+    "id": 379,
+    "name": "BOULEVARD 99 FORD F-150 SVT LIGHTNING Hot Wheels GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-sieu-xe-hw-boulevard-99-ford-f-150-svt-lightning-hrt60-gjt68_3.jpg?v=1725605086",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 380,
+    "name": "TOYOTA COROLLA TE 27 Hot Wheels FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-sieu-xe-sang-trong-toyota-corolla-te-27-hot-wheels-fpy86-hrv69_1.jpg?v=1725702150",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 381,
+    "name": "PRINCE SKYLINE GT Hot Wheels FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-sieu-xe-sang-trong-prince-skyline-gt-hot-wheels-hrv70-fpy86_5.jpg?v=1725701939",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 382,
+    "name": "VW BRASILIA T9678 Hot Wheels FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-vw-brasilia-t9678-hot-wheels-hrv82-fpy86_1.jpg?v=1722938960",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 383,
+    "name": "VOLKSWAGEN GOLF MK7 Hot Wheels FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-sang-trong-volkswagen-golf-mk7-hot-wheels-HRV79-fpy86_1.jpg?v=1722939220",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 384,
+    "name": "BOULEVARD 86 FORD THUNDERBIRD PRO STOCK Hot Wheels GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-boulevard-86-ford-thunderbird-pro-stock-hot-wheels-hrt72gjt68_1.jpg?v=1722940108",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 385,
+    "name": "Tải Quái Vật Monster Trucks Hot Wheels FYJ44",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-tai-quai-vat-hw-monster-trucks-hot-wheels-fyj44_1.jpg?v=1720771359",
+    "series": "Mainline / Others",
+    "code": "FYJ44"
+  },
+  {
+    "id": 386,
+    "name": "Boulevard Meyers Manx 2.0 Hot Wheels GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/Untitled-1-01_deb1509e-ca30-4281-b25a-0deac99e5670.jpg?v=1720770552",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 387,
+    "name": "Tải Quái Vật Monster Trucks Đổi Màu Hot Wheels HGX06",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-tai-quai-vat-hw-monster-trucks-doi-mau-hot-wheels-hgx06.jpg?v=1720771536",
+    "series": "Mainline / Others",
+    "code": "HGX06"
+  },
+  {
+    "id": 388,
+    "name": "Premiums 5 Hot Wheels HBL96",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HBL96-HRR74_1.jpg?v=1767067844",
+    "series": "Mainline / Others",
+    "code": "HBL96"
+  },
+  {
+    "id": 389,
+    "name": "BOULEVARD - 66 CHEVROLET COVAIR YENKO STINGER HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/GJT68-HRT69.jpg?v=1715658214",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 390,
+    "name": "BOULEVARD - MBK VAN HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/GJT68-HRT67.jpg?v=1715658472",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 391,
+    "name": "Ultra Hots - CUSTOM VOLKSWAGEN BEETLE HOT WHEELS HDG52",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HDG52-HRX15.jpg?v=1715655787",
+    "series": "Mainline / Others",
+    "code": "HDG52"
+  },
+  {
+    "id": 392,
+    "name": "BIG-AIR BEL-AIR HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/FPY86-HKC74.jpg?v=1715655530",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 393,
+    "name": "BOULEVARD - 91 GMC SYCLONE HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/HKF24-GJT68.jpg?v=1715594748",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 394,
+    "name": "tải trung chuyển Hot Wheels HOT WHEELS BDW51",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/BDW51.jpg?v=1715590464",
+    "series": "Mainline / Others",
+    "code": "BDW51"
+  },
+  {
+    "id": 395,
+    "name": "Mô Hình Siêu Xe HOT WHEELS C4982",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/2001011517622-mau385-_1__1.jpg?v=1743301271",
+    "series": "Mainline / Others",
+    "code": "C4982"
+  },
+  {
+    "id": 396,
+    "name": "Bộ 5 siêu xe Hot Wheels HOT WHEELS 1806H",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/1806H.jpg?v=1715589965",
+    "series": "Mainline / Others",
+    "code": "1806H"
+  },
+  {
+    "id": 397,
+    "name": "trung chuyển Hot Wheels HOT WHEELS FLF56",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/FLF56.jpg?v=1715590810",
+    "series": "Mainline / Others",
+    "code": "FLF56"
+  },
+  {
+    "id": 398,
+    "name": "Bộ 10 Siêu Xe Hot Wheels 54886",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/54886.jpg?v=1716802840",
+    "series": "Mainline / Others",
+    "code": "54886"
+  },
+  {
+    "id": 399,
+    "name": "tải Hot Wheels HOT WHEELS BFM60",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/BFM60.jpg?v=1715590523",
+    "series": "Mainline / Others",
+    "code": "BFM60"
+  },
+  {
+    "id": 400,
+    "name": "Bộ 3 siêu xe Hot Wheels HOT WHEELS K5904",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/K5904.jpg?v=1715655189",
+    "series": "Mainline / Others",
+    "code": "K5904"
+  },
+  {
+    "id": 401,
+    "name": "đổi màu HOT WHEELS BHR15",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/BHR15.jpg?v=1715590600",
+    "series": "Mainline / Others",
+    "code": "BHR15"
+  },
+  {
+    "id": 402,
+    "name": "Neon Speeders Porsche Cayman S HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-porsche-cayman-s-hot-wheels-jky07-hlh72_2.jpg?v=1781852828",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 403,
+    "name": "Ferrari 250 GTO HOT WHEELS FPY86",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-hang-sang-ferrari-250-gto-hot-wheels-jkf25-fpy86_2.jpg?v=1781850154",
+    "series": "Mainline / Others",
+    "code": "FPY86"
+  },
+  {
+    "id": 404,
+    "name": "Celebrations 84 Audi Sport Quattro (Chase) HOT WHEELS GRT01",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-celebrations-84-audi-sport-quattro-chase-hot-wheels-jky19-grt01_2.jpg?v=1781850698",
+    "series": "Mainline / Others",
+    "code": "GRT01"
+  },
+  {
+    "id": 405,
+    "name": "Vintage Porsche 356 Outlaw (Chase) HOT WHEELS HRT81",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/hw-vintage-porsche-356-outlaw-chase-hot-wheels-jky28-hrt81_2.jpg?v=1781853457",
+    "series": "Mainline / Others",
+    "code": "HRT81"
+  },
+  {
+    "id": 406,
+    "name": "Neon Speeders 2017 Nissan GT-R (R35) HOT WHEELS HLH72",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hot-wheels-neon-speeders-2017-nissan-gt-r-r35-hot-wheels-jky01-hlh72_2.jpg?v=1781852753",
+    "series": "Neon Speeders",
+    "code": "HLH72"
+  },
+  {
+    "id": 407,
+    "name": "Boulevard 2021 Toyota GR Supra HOT WHEELS GJT68",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-hw-boulevard-2021-toyota-gr-supra-hot-wheels-jhw34-gjt68_2.jpg?v=1781850216",
+    "series": "Boulevard",
+    "code": "GJT68"
+  },
+  {
+    "id": 408,
+    "name": "Fast And Furious Honda S2000 HOT WHEELS HNR88",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-honda-s2000-fast-furious-hot-wheels-jkx18-hnr88_1.jpg?v=1778509725",
+    "series": "Fast & Furious",
+    "code": "HNR88"
+  },
+  {
+    "id": 409,
+    "name": "Track Dwagon HOT WHEELS HDH54",
+    "image": "https://cdn.shopify.com/s/files/1/0731/6514/4343/files/sieu-xe-phien-ban-ngoc-trai-track-dwagon-hot-wheels-jkx92-hdh54_3.jpg?v=1778496284",
+    "series": "Mainline / Others",
+    "code": "HDH54"
+  }
+]
